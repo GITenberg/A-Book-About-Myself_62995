@@ -1,5 +1,8 @@
 _repo: A-Book-About-Myself_62995
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62995-h/images/cover.jpg
 creator:
   author:
     agent_name: Dreiser, Theodore
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/130
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Dreiser
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62995#A-Book-About-Myself
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
